@@ -1,0 +1,9 @@
+auth0-python
+cryptography
+fastapi
+pydantic
+python-dotenv
+PyJWT
+pymongo
+secure
+uvicorn
